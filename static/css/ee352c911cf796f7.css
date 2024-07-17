@@ -11144,12 +11144,12 @@ Copyright (c) 2015 Daniel Eden
 }
 @font-face {
   font-family: linearicons-free;
-  src: url(/_next/static/media/linearicons-free.0c7cefea.eot);
-  src: url(/_next/static/media/linearicons-free.0c7cefea.eot#iefix)
+  src: url(/static/media/linearicons-free.0c7cefea.eot);
+  src: url(/static/media/linearicons-free.0c7cefea.eot#iefix)
       format("embedded-opentype"),
-    url(/_next/static/media/linearicons-free.1191acb6.ttf) format("truetype"),
-    url(/_next/static/media/linearicons-free.65a8c9e0.woff) format("woff"),
-    url(/_next/static/media/linearicons-free.5bf9f72c.svg#linearicons-free)
+    url(/static/media/linearicons-free.1191acb6.ttf) format("truetype"),
+    url(/static/media/linearicons-free.65a8c9e0.woff) format("woff"),
+    url(/static/media/linearicons-free.5bf9f72c.svg#linearicons-free)
       format("svg");
   font-weight: 400;
   font-style: normal;
@@ -20622,9 +20622,9 @@ Copyright (c) 2015 Daniel Eden
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url(/_next/static/media/fa-brands-400.f1168907.woff2) format("woff2"),
-    url(/_next/static/media/fa-brands-400.fb222333.woff) format("woff"),
-    url(/_next/static/media/fa-brands-400.952c8848.ttf) format("truetype");
+  src: url(/static/media/fa-brands-400.f1168907.woff2) format("woff2"),
+    url(/static/media/fa-brands-400.fb222333.woff) format("woff"),
+    url(/static/media/fa-brands-400.952c8848.ttf) format("truetype");
 }
 .fa-brands,
 .fab {
@@ -22006,9 +22006,9 @@ Copyright (c) 2015 Daniel Eden
   font-style: normal;
   font-weight: 900;
   font-display: block;
-  src: url(/_next/static/media/fa-duotone-900.16b8301a.woff2) format("woff2"),
-    url(/_next/static/media/fa-duotone-900.aa2b3a20.woff) format("woff"),
-    url(/_next/static/media/fa-duotone-900.c54ad351.ttf) format("truetype");
+  src: url(/static/media/fa-duotone-900.16b8301a.woff2) format("woff2"),
+    url(/static/media/fa-duotone-900.aa2b3a20.woff) format("woff"),
+    url(/static/media/fa-duotone-900.c54ad351.ttf) format("truetype");
 }
 .fa-duotone,
 .fad {
@@ -34034,9 +34034,9 @@ Copyright (c) 2015 Daniel Eden
   font-style: normal;
   font-weight: 300;
   font-display: block;
-  src: url(/_next/static/media/fa-light-300.18724341.woff2) format("woff2"),
-    url(/_next/static/media/fa-light-300.922ff9bc.woff) format("woff"),
-    url(/_next/static/media/fa-light-300.0f261855.ttf) format("truetype");
+  src: url(/static/media/fa-light-300.18724341.woff2) format("woff2"),
+    url(/static/media/fa-light-300.922ff9bc.woff) format("woff"),
+    url(/static/media/fa-light-300.0f261855.ttf) format("truetype");
 }
 .fa-light,
 .fal {
@@ -34048,9 +34048,9 @@ Copyright (c) 2015 Daniel Eden
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url(/_next/static/media/fa-regular-400.cf128147.woff2) format("woff2"),
-    url(/_next/static/media/fa-regular-400.f1b720c6.woff) format("woff"),
-    url(/_next/static/media/fa-regular-400.753710b2.ttf) format("truetype");
+  src: url(/static/media/fa-regular-400.cf128147.woff2) format("woff2"),
+    url(/static/media/fa-regular-400.f1b720c6.woff) format("woff"),
+    url(/static/media/fa-regular-400.753710b2.ttf) format("truetype");
 }
 .fa-regular,
 .far {
@@ -34062,9 +34062,9 @@ Copyright (c) 2015 Daniel Eden
   font-style: normal;
   font-weight: 900;
   font-display: block;
-  src: url(/_next/static/media/fa-solid-900.fb675b0a.woff2) format("woff2"),
-    url(/_next/static/media/fa-solid-900.f810c10c.woff) format("woff"),
-    url(/_next/static/media/fa-solid-900.3615c1f4.ttf) format("truetype");
+  src: url(/static/media/fa-solid-900.fb675b0a.woff2) format("woff2"),
+    url(/static/media/fa-solid-900.f810c10c.woff) format("woff"),
+    url(/static/media/fa-solid-900.3615c1f4.ttf) format("truetype");
 }
 .fa-solid,
 .fas {
@@ -34075,9 +34075,9 @@ Copyright (c) 2015 Daniel Eden
   font-style: normal;
   font-weight: 100;
   font-display: block;
-  src: url(/_next/static/media/fa-thin-100.d95aceb1.woff2) format("woff2"),
-    url(/_next/static/media/fa-thin-100.51ec3afb.woff) format("woff"),
-    url(/_next/static/media/fa-thin-100.4ee9c169.ttf) format("truetype");
+  src: url(/static/media/fa-thin-100.d95aceb1.woff2) format("woff2"),
+    url(/static/media/fa-thin-100.51ec3afb.woff) format("woff"),
+    url(/static/media/fa-thin-100.4ee9c169.ttf) format("truetype");
 }
 .fa-solid,
 .fa-thin,
@@ -34091,12 +34091,12 @@ Copyright (c) 2015 Daniel Eden
 }
 @font-face {
   font-family: flaticon_wedding;
-  src: url(/_next/static/media/flaticon_wedding.52337f43.ttf) format("truetype"),
-    url(/_next/static/media/flaticon_wedding.709e394f.woff) format("woff"),
-    url(/_next/static/media/flaticon_wedding.6f66c663.woff2) format("woff2"),
-    url(/_next/static/media/flaticon_wedding.cd169516.eot#iefix)
+  src: url(/static/media/flaticon_wedding.52337f43.ttf) format("truetype"),
+    url(/static/media/flaticon_wedding.709e394f.woff) format("woff"),
+    url(/static/media/flaticon_wedding.6f66c663.woff2) format("woff2"),
+    url(/static/media/flaticon_wedding.cd169516.eot#iefix)
       format("embedded-opentype"),
-    url(/_next/static/media/flaticon_wedding.4009ab83.svg#flaticon_wedding)
+    url(/static/media/flaticon_wedding.4009ab83.svg#flaticon_wedding)
       format("svg");
 }
 i[class*=" flaticon-"]:before,
@@ -40214,7 +40214,7 @@ textarea.form-control {
   background-color: var(--theme-color-dark);
 }
 .dark-layout .preloader:after {
-  background-image: url(/_next/static/media/logo.b9ec8573.png);
+  background-image: url(/static/media/logo.b9ec8573.png);
 }
 .dark-layout .sticky-header {
   background-color: var(--theme-color-dark);
@@ -40302,31 +40302,31 @@ figure.image {
   background-size: cover;
 }
 .bg-pattern-1 {
-  background-image: url(/_next/static/media/pattern-1.31d2ffdc.png);
+  background-image: url(/static/media/pattern-1.31d2ffdc.png);
 }
 .bg-pattern-2 {
-  background-image: url(/_next/static/media/pattern-2.bf088abe.png);
+  background-image: url(/static/media/pattern-2.bf088abe.png);
 }
 .bg-pattern-3 {
-  background-image: url(/_next/static/media/pattern-3.866ad364.png);
+  background-image: url(/static/media/pattern-3.866ad364.png);
 }
 .bg-pattern-4 {
-  background-image: url(/_next/static/media/pattern-4.e564f397.png);
+  background-image: url(/static/media/pattern-4.e564f397.png);
 }
 .bg-pattern-5 {
-  background-image: url(/_next/static/media/pattern-5.11e6bd77.png);
+  background-image: url(/static/media/pattern-5.11e6bd77.png);
 }
 .bg-pattern-6 {
-  background-image: url(/_next/static/media/pattern-6.12d3a78b.png);
+  background-image: url(/static/media/pattern-6.12d3a78b.png);
 }
 .bg-pattern-7 {
-  background-image: url(/_next/static/media/pattern-7.0fbbdcf7.png);
+  background-image: url(/static/media/pattern-7.0fbbdcf7.png);
 }
 .bg-pattern-8 {
-  background-image: url(/_next/static/media/pattern-8.3d90901f.png);
+  background-image: url(/static/media/pattern-8.3d90901f.png);
 }
 .bg-pattern-9 {
-  background-image: url(/_next/static/media/pattern-9.9049bd17.png);
+  background-image: url(/static/media/pattern-9.9049bd17.png);
 }
 .preloader {
   position: fixed;
@@ -40353,7 +40353,7 @@ figure.image {
   margin-top: -130px;
   background-position: 50%;
   background-repeat: no-repeat;
-  background-image: url(/_next/static/media/preloader.142dada6.png);
+  background-image: url(/static/media/preloader.142dada6.png);
   background-size: 260px;
   animation: fa-spin 20s linear infinite;
   content: "";
@@ -41206,41 +41206,41 @@ figure.image {
 .couple-frame {
   width: 352px;
   height: 406px;
-  background-image: url(/_next/static/media/couple-frame.d3cac2e2.png);
+  background-image: url(/static/media/couple-frame.d3cac2e2.png);
   pointer-events: none;
 }
 .team-frame {
   width: 193px;
   height: 221px;
-  background-image: url(/_next/static/media/team-frame.2626baba.png);
+  background-image: url(/static/media/team-frame.2626baba.png);
 }
 .team3-frame {
   width: 251px;
   height: 235px;
-  background-image: url(/_next/static/media/team3-frame.47f014be.png);
+  background-image: url(/static/media/team3-frame.47f014be.png);
 }
 .testi-frame {
   width: 497px;
   height: 469px;
-  background-image: url(/_next/static/media/testi-frame.6c5c27f8.png);
+  background-image: url(/static/media/testi-frame.6c5c27f8.png);
 }
 .banner-frame {
   width: 982px;
   height: 795px;
-  background-image: url(/_next/static/media/banner4-frame.1f2a949c.png);
+  background-image: url(/static/media/banner4-frame.1f2a949c.png);
 }
 .testi3-frame {
   width: 872px;
   height: 707px;
-  background-image: url(/_next/static/media/testi3-frame.4071fdb3.png);
+  background-image: url(/static/media/testi3-frame.4071fdb3.png);
 }
 .story-frame {
   width: 422px;
   height: 420px;
-  background-image: url(/_next/static/media/story-frame.9eb89117.png);
+  background-image: url(/static/media/story-frame.9eb89117.png);
 }
 .icon-divider {
-  background-image: url(/_next/static/media/divider.fd7da730.png);
+  background-image: url(/static/media/divider.fd7da730.png);
 }
 .icon-divider,
 .icon-divider-5 {
@@ -41249,499 +41249,499 @@ figure.image {
   display: inline-block;
 }
 .icon-divider-5 {
-  background-image: url(/_next/static/media/divider-5.360bab51.png);
+  background-image: url(/static/media/divider-5.360bab51.png);
 }
 .icon-heart {
-  background-image: url(/_next/static/media/icon-heart.cbd72b01.png);
+  background-image: url(/static/media/icon-heart.cbd72b01.png);
   width: 124px;
   height: 112px;
 }
 .icon-heart-2 {
-  background-image: url(/_next/static/media/icon-heart-2.e3dd9c59.png);
+  background-image: url(/static/media/icon-heart-2.e3dd9c59.png);
   width: 209px;
   height: 123px;
 }
 .icon-heart-4 {
-  background-image: url(/_next/static/media/icon-heart-4.53d8c4e5.png);
+  background-image: url(/static/media/icon-heart-4.53d8c4e5.png);
   width: 31px;
   height: 28px;
 }
 .icon-heart-5 {
-  background-image: url(/_next/static/media/icon-heart-5.f8add2dc.png);
+  background-image: url(/static/media/icon-heart-5.f8add2dc.png);
   width: 134px;
   height: 14px;
 }
 .icon-green-heart {
-  background-image: url(/_next/static/media/icon-heart-3.0b319d7a.png);
+  background-image: url(/static/media/icon-heart-3.0b319d7a.png);
   width: 91px;
   height: 53px;
 }
 .icon-flower {
   width: 633px;
   height: 508px;
-  background-image: url(/_next/static/media/icon-flower-2.71f46eb2.png);
+  background-image: url(/static/media/icon-flower-2.71f46eb2.png);
 }
 .icon-flowers-1 {
   width: 669px;
   height: 641px;
-  background-image: url(/_next/static/media/flowers-1.29a391c1.png);
+  background-image: url(/static/media/flowers-1.29a391c1.png);
 }
 .icon-flowers-2 {
   width: 422px;
   height: 441px;
-  background-image: url(/_next/static/media/flowers-2.6acb9032.png);
+  background-image: url(/static/media/flowers-2.6acb9032.png);
   pointer-events: none;
 }
 .icon-flowers-3 {
   width: 344px;
   height: 907px;
-  background-image: url(/_next/static/media/flowers-3.d12df7bb.png);
+  background-image: url(/static/media/flowers-3.d12df7bb.png);
 }
 .icon-flowers-5 {
   width: 254px;
   height: 264px;
-  background-image: url(/_next/static/media/flowers-5.30687573.png);
+  background-image: url(/static/media/flowers-5.30687573.png);
 }
 .icon-flowers-6 {
   width: 255px;
   height: 754px;
-  background-image: url(/_next/static/media/flowers-6.056270c0.png);
+  background-image: url(/static/media/flowers-6.056270c0.png);
 }
 .icon-flowers-7 {
   width: 250px;
   height: 753px;
-  background-image: url(/_next/static/media/flowers-7.92a497d4.png);
+  background-image: url(/static/media/flowers-7.92a497d4.png);
 }
 .icon-flowers-8 {
   width: 179px;
   height: 459px;
-  background-image: url(/_next/static/media/flowers-8.bdd04963.png);
+  background-image: url(/static/media/flowers-8.bdd04963.png);
 }
 .icon-flowers-9 {
   width: 1486px;
   height: 252px;
-  background-image: url(/_next/static/media/icon-flowers-2.c764ca7f.png);
+  background-image: url(/static/media/icon-flowers-2.c764ca7f.png);
 }
 .icon-flowers-10 {
   width: 120px;
   height: 806px;
-  background-image: url(/_next/static/media/flowers-10.3fd04353.png);
+  background-image: url(/static/media/flowers-10.3fd04353.png);
 }
 .icon-flowers-11 {
   width: 163px;
   height: 855px;
-  background-image: url(/_next/static/media/flowers-11.57827fee.png);
+  background-image: url(/static/media/flowers-11.57827fee.png);
 }
 .icon-flowers-12 {
   width: 406px;
   height: 765px;
-  background-image: url(/_next/static/media/flowers-12.3c2962c4.png);
+  background-image: url(/static/media/flowers-12.3c2962c4.png);
 }
 .icon-flowers-13 {
   width: 479px;
   height: 651px;
-  background-image: url(/_next/static/media/flowers-13.8814cc06.png);
+  background-image: url(/static/media/flowers-13.8814cc06.png);
 }
 .icon-flowers-14 {
   width: 524px;
   height: 715px;
-  background-image: url(/_next/static/media/flowers-14.97f3081d.png);
+  background-image: url(/static/media/flowers-14.97f3081d.png);
 }
 .icon-flowers-15 {
   width: 375px;
   height: 404px;
-  background-image: url(/_next/static/media/flowers-15.8180996f.png);
+  background-image: url(/static/media/flowers-15.8180996f.png);
 }
 .icon-flowers-16 {
   width: 564px;
   height: 463px;
-  background-image: url(/_next/static/media/flowers-16.34c25497.png);
+  background-image: url(/static/media/flowers-16.34c25497.png);
 }
 .icon-flowers-17 {
   width: 237px;
   height: 203px;
-  background-image: url(/_next/static/media/flowers-17.819efcf9.png);
+  background-image: url(/static/media/flowers-17.819efcf9.png);
 }
 .icon-flowers-18 {
   width: 382px;
   height: 481px;
-  background-image: url(/_next/static/media/flowers-18.455a6648.png);
+  background-image: url(/static/media/flowers-18.455a6648.png);
 }
 .icon-flowers-19 {
   width: 459px;
   height: 737px;
-  background-image: url(/_next/static/media/flowers-19.5e6c36e1.png);
+  background-image: url(/static/media/flowers-19.5e6c36e1.png);
 }
 .icon-flowers-20 {
   width: 351px;
   height: 622px;
-  background-image: url(/_next/static/media/flowers-20.67c18b47.png);
+  background-image: url(/static/media/flowers-20.67c18b47.png);
 }
 .icon-flowers-21 {
   width: 432px;
   height: 604px;
-  background-image: url(/_next/static/media/cta-flowers.462083f6.png);
+  background-image: url(/static/media/cta-flowers.462083f6.png);
 }
 .icon-border {
   width: 352px;
   height: 406px;
-  background-image: url(/_next/static/media/couple-border.c5e3608b.png);
+  background-image: url(/static/media/couple-border.c5e3608b.png);
   pointer-events: none;
 }
 .icon-shape-1 {
   width: 332px;
   height: 695px;
-  background-image: url(/_next/static/media/icon-shape-1.f4558198.png);
+  background-image: url(/static/media/icon-shape-1.f4558198.png);
 }
 .icon-shape {
   width: 283px;
   height: 279px;
-  background-image: url(/_next/static/media/services-shape.d83488eb.png);
+  background-image: url(/static/media/services-shape.d83488eb.png);
 }
 .icon-leave {
   width: 153px;
   height: 150px;
-  background-image: url(/_next/static/media/icon-leave.7585c27f.png);
+  background-image: url(/static/media/icon-leave.7585c27f.png);
 }
 .icon-leave-2 {
   width: 275px;
   height: 514px;
-  background-image: url(/_next/static/media/icon-leave-2.ab088d2d.png);
+  background-image: url(/static/media/icon-leave-2.ab088d2d.png);
 }
 .icon-leave-3 {
   width: 264px;
   height: 512px;
-  background-image: url(/_next/static/media/icon-leave-3.2061c603.png);
+  background-image: url(/static/media/icon-leave-3.2061c603.png);
 }
 .icon-leave-4 {
   width: 119px;
   height: 225px;
-  background-image: url(/_next/static/media/icon-leave-4.3228d55a.png);
+  background-image: url(/static/media/icon-leave-4.3228d55a.png);
 }
 .icon-leave-5 {
   width: 69px;
   height: 118px;
-  background-image: url(/_next/static/media/icon-leave-5.a8f7737f.png);
+  background-image: url(/static/media/icon-leave-5.a8f7737f.png);
 }
 .icon-leaves-5 {
   width: 226px;
   height: 254px;
-  background-image: url(/_next/static/media/icon-leaves-5.b5bbe80c.png);
+  background-image: url(/static/media/icon-leaves-5.b5bbe80c.png);
 }
 .icon-leaves-6 {
   width: 226px;
   height: 254px;
-  background-image: url(/_next/static/media/icon-leaves-6.6ae09700.png);
+  background-image: url(/static/media/icon-leaves-6.6ae09700.png);
 }
 .icon-leaves-7 {
   width: 382px;
   height: 711px;
-  background-image: url(/_next/static/media/icon-leaves-7.4c419d9e.png);
+  background-image: url(/static/media/icon-leaves-7.4c419d9e.png);
 }
 .icon-leaves-8 {
   width: 261px;
   height: 227px;
-  background-image: url(/_next/static/media/icon-leaves-8.d59b2df5.png);
+  background-image: url(/static/media/icon-leaves-8.d59b2df5.png);
 }
 .icon-leaves-9 {
   width: 179px;
   height: 126px;
-  background-image: url(/_next/static/media/icon-leaves-9.2659162e.png);
+  background-image: url(/static/media/icon-leaves-9.2659162e.png);
 }
 .icon-leaves-10 {
   width: 153px;
   height: 136px;
-  background-image: url(/_next/static/media/icon-leaves-10.2b08871c.png);
+  background-image: url(/static/media/icon-leaves-10.2b08871c.png);
 }
 .icon-leaves-11 {
   width: 130px;
   height: 172px;
-  background-image: url(/_next/static/media/icon-leaves-11.490059c2.png);
+  background-image: url(/static/media/icon-leaves-11.490059c2.png);
 }
 .icon-leaves-12 {
   width: 179px;
   height: 497px;
-  background-image: url(/_next/static/media/icon-leaves-12.92275b72.png);
+  background-image: url(/static/media/icon-leaves-12.92275b72.png);
 }
 .icon-leaves-13 {
   width: 700px;
   height: 513px;
-  background-image: url(/_next/static/media/icon-leaves-13.ded9a10c.png);
+  background-image: url(/static/media/icon-leaves-13.ded9a10c.png);
 }
 .icon-leaves-14 {
   width: 408px;
   height: 366px;
-  background-image: url(/_next/static/media/icon-leaves-14.8f67f384.png);
+  background-image: url(/static/media/icon-leaves-14.8f67f384.png);
 }
 .icon-leaves-15 {
   width: 474px;
   height: 488px;
-  background-image: url(/_next/static/media/icon-leaves-15.4628cd2e.png);
+  background-image: url(/static/media/icon-leaves-15.4628cd2e.png);
 }
 .icon-leaves-16 {
   width: 654px;
   height: 271px;
-  background-image: url(/_next/static/media/icon-leaves-16.b3b9375d.png);
+  background-image: url(/static/media/icon-leaves-16.b3b9375d.png);
 }
 .icon-leaves-17 {
   width: 292px;
   height: 262px;
-  background-image: url(/_next/static/media/icon-leaves-17.ad6549fb.png);
+  background-image: url(/static/media/icon-leaves-17.ad6549fb.png);
 }
 .icon-leaves-18 {
   width: 340px;
   height: 288px;
-  background-image: url(/_next/static/media/icon-leaves-18.7e7b6579.png);
+  background-image: url(/static/media/icon-leaves-18.7e7b6579.png);
 }
 .icon-leaves-19 {
   width: 366px;
   height: 329px;
-  background-image: url(/_next/static/media/icon-leaves-19.7e33ee2e.png);
+  background-image: url(/static/media/icon-leaves-19.7e33ee2e.png);
 }
 .icon-leaves-20 {
   width: 426px;
   height: 351px;
-  background-image: url(/_next/static/media/icon-leaves-20.3e5c06cf.png);
+  background-image: url(/static/media/icon-leaves-20.3e5c06cf.png);
 }
 .icon-leaves-21 {
   width: 303px;
   height: 591px;
-  background-image: url(/_next/static/media/icon-leaves-21.310f6ef1.png);
+  background-image: url(/static/media/icon-leaves-21.310f6ef1.png);
 }
 .icon-leaves-22 {
   width: 270px;
   height: 338px;
-  background-image: url(/_next/static/media/icon-leaves-22.63480abc.png);
+  background-image: url(/static/media/icon-leaves-22.63480abc.png);
 }
 .icon-leaves-23 {
   width: 416px;
   height: 1116px;
-  background-image: url(/_next/static/media/icon-leaves-23.ca688855.png);
+  background-image: url(/static/media/icon-leaves-23.ca688855.png);
 }
 .icon-leaves-24 {
   width: 656px;
   height: 923px;
-  background-image: url(/_next/static/media/icon-leaves-24.cffe7a95.png);
+  background-image: url(/static/media/icon-leaves-24.cffe7a95.png);
 }
 .icon-leaves-25 {
   width: 270px;
   height: 339px;
-  background-image: url(/_next/static/media/icon-leaves-25.09e266ea.png);
+  background-image: url(/static/media/icon-leaves-25.09e266ea.png);
 }
 .icon-leaves-26 {
   width: 285px;
   height: 400px;
-  background-image: url(/_next/static/media/icon-leaves-26.ea27d06d.png);
+  background-image: url(/static/media/icon-leaves-26.ea27d06d.png);
 }
 .icon-leaves-27 {
   width: 86px;
   height: 123px;
-  background-image: url(/_next/static/media/icon-leaves-27.8dde5358.png);
+  background-image: url(/static/media/icon-leaves-27.8dde5358.png);
 }
 .icon-leaves-28 {
   width: 86px;
   height: 123px;
-  background-image: url(/_next/static/media/icon-leaves-28.8dde5358.png);
+  background-image: url(/static/media/icon-leaves-28.8dde5358.png);
 }
 .icon-leaves-29 {
   width: 242px;
   height: 237px;
-  background-image: url(/_next/static/media/icon-leaves-29.660f67a5.png);
+  background-image: url(/static/media/icon-leaves-29.660f67a5.png);
 }
 .icon-leaves-30 {
   width: 153px;
   height: 145px;
-  background-image: url(/_next/static/media/icon-leaves-30.14f587c8.png);
+  background-image: url(/static/media/icon-leaves-30.14f587c8.png);
 }
 .icon-leaves-31 {
   width: 148px;
   height: 140px;
-  background-image: url(/_next/static/media/icon-leaves-31.3b8698fe.png);
+  background-image: url(/static/media/icon-leaves-31.3b8698fe.png);
 }
 .icon-leaves-32 {
   width: 175px;
   height: 137px;
-  background-image: url(/_next/static/media/icon-leaves-32.024cd180.png);
+  background-image: url(/static/media/icon-leaves-32.024cd180.png);
 }
 .icon-leaves-33 {
   width: 150px;
   height: 270px;
-  background-image: url(/_next/static/media/icon-leaves-33.85244783.png);
+  background-image: url(/static/media/icon-leaves-33.85244783.png);
 }
 .icon-leaves-34 {
   width: 303px;
   height: 261px;
-  background-image: url(/_next/static/media/icon-leaves-34.7e97d4f3.png);
+  background-image: url(/static/media/icon-leaves-34.7e97d4f3.png);
 }
 .icon-leaves-35 {
   width: 153px;
   height: 145px;
-  background-image: url(/_next/static/media/icon-leaves-35.14f587c8.png);
+  background-image: url(/static/media/icon-leaves-35.14f587c8.png);
 }
 .icon-leaves-36 {
   width: 180px;
   height: 55px;
-  background-image: url(/_next/static/media/icon-leaves-36.949ba968.png);
+  background-image: url(/static/media/icon-leaves-36.949ba968.png);
 }
 .icon-leaves-37 {
   width: 80px;
   height: 104px;
-  background-image: url(/_next/static/media/icon-leaves-37.c26fc712.png);
+  background-image: url(/static/media/icon-leaves-37.c26fc712.png);
 }
 .icon-flower-3 {
   width: 141px;
   height: 217px;
-  background-image: url(/_next/static/media/icon-flower-3.59795cad.png);
+  background-image: url(/static/media/icon-flower-3.59795cad.png);
 }
 .icon-flower-4 {
   width: 134px;
   height: 188px;
-  background-image: url(/_next/static/media/icon-flower-4.ef96195e.png);
+  background-image: url(/static/media/icon-flower-4.ef96195e.png);
 }
 .icon-flower-6 {
   width: 80px;
   height: 105px;
-  background-image: url(/_next/static/media/icon-flower-6.91b9e22d.png);
+  background-image: url(/static/media/icon-flower-6.91b9e22d.png);
 }
 .icon-flower-7 {
   width: 106px;
   height: 76px;
-  background-image: url(/_next/static/media/icon-flower-7.3609917e.png);
+  background-image: url(/static/media/icon-flower-7.3609917e.png);
 }
 .icon-flower-8 {
   width: 111px;
   height: 169px;
-  background-image: url(/_next/static/media/icon-flower-8.4267299d.png);
+  background-image: url(/static/media/icon-flower-8.4267299d.png);
 }
 .icon-flower-9 {
   width: 100px;
   height: 140px;
-  background-image: url(/_next/static/media/icon-flower-9.f8b86917.png);
+  background-image: url(/static/media/icon-flower-9.f8b86917.png);
 }
 .icon-flower-10 {
   width: 87px;
   height: 134px;
-  background-image: url(/_next/static/media/icon-flower-10.773840de.png);
+  background-image: url(/static/media/icon-flower-10.773840de.png);
 }
 .icon-flower-11 {
   width: 83px;
   height: 116px;
-  background-image: url(/_next/static/media/icon-flower-11.dfe640b6.png);
+  background-image: url(/static/media/icon-flower-11.dfe640b6.png);
 }
 .icon-flower-12 {
   width: 200px;
   height: 316px;
-  background-image: url(/_next/static/media/icon-flower-12.765bd6b9.png);
+  background-image: url(/static/media/icon-flower-12.765bd6b9.png);
 }
 .icon-flower-13 {
   width: 79px;
   height: 124px;
-  background-image: url(/_next/static/media/icon-flower-13.7966f115.png);
+  background-image: url(/static/media/icon-flower-13.7966f115.png);
 }
 .icon-flower-14 {
   width: 129px;
   height: 201px;
-  background-image: url(/_next/static/media/icon-flower-14.d1aac407.png);
+  background-image: url(/static/media/icon-flower-14.d1aac407.png);
 }
 .icon-flower-15 {
   width: 406px;
   height: 765px;
-  background-image: url(/_next/static/media/icon-flower-15.3c2962c4.png);
+  background-image: url(/static/media/icon-flower-15.3c2962c4.png);
 }
 .icon-flower-16 {
   width: 459px;
   height: 645px;
-  background-image: url(/_next/static/media/icon-flower-16.85d3c4c3.png);
+  background-image: url(/static/media/icon-flower-16.85d3c4c3.png);
 }
 .icon-flower-17 {
   width: 673px;
   height: 786px;
-  background-image: url(/_next/static/media/icon-flower-17.7139ecc8.png);
+  background-image: url(/static/media/icon-flower-17.7139ecc8.png);
 }
 .icon-flower-18 {
   width: 460px;
   height: 621px;
-  background-image: url(/_next/static/media/icon-flower-18.16d8759f.png);
+  background-image: url(/static/media/icon-flower-18.16d8759f.png);
 }
 .icon-flower-19 {
   width: 200px;
   height: 594px;
-  background-image: url(/_next/static/media/icon-flower-19.9b1e1bd3.png);
+  background-image: url(/static/media/icon-flower-19.9b1e1bd3.png);
 }
 .icon-flower-20 {
   width: 407px;
   height: 549px;
-  background-image: url(/_next/static/media/icon-flower-20.bfedde20.png);
+  background-image: url(/static/media/icon-flower-20.bfedde20.png);
 }
 .icon-flower-21 {
   width: 129px;
   height: 201px;
-  background-image: url(/_next/static/media/icon-flower-21.d1aac407.png);
+  background-image: url(/static/media/icon-flower-21.d1aac407.png);
 }
 .icon-flower-22 {
   width: 382px;
   height: 488px;
-  background-image: url(/_next/static/media/icon-flower-22.eefd6243.png);
+  background-image: url(/static/media/icon-flower-22.eefd6243.png);
 }
 .icon-flower-23 {
   width: 762px;
   height: 494px;
-  background-image: url(/_next/static/media/icon-flower-23.6f259250.png);
+  background-image: url(/static/media/icon-flower-23.6f259250.png);
 }
 .icon-flower-24 {
   width: 579px;
   height: 624px;
-  background-image: url(/_next/static/media/icon-flower-24.a138d7b5.png);
+  background-image: url(/static/media/icon-flower-24.a138d7b5.png);
 }
 .icon-flower-25 {
   width: 896px;
   height: 583px;
-  background-image: url(/_next/static/media/icon-flower-25.9b6570cb.png);
+  background-image: url(/static/media/icon-flower-25.9b6570cb.png);
 }
 .icon-flower-26 {
   width: 326px;
   height: 97px;
-  background-image: url(/_next/static/media/icon-flower-26.b465077b.png);
+  background-image: url(/static/media/icon-flower-26.b465077b.png);
 }
 .icon-flower-27 {
   width: 146px;
   height: 134px;
-  background-image: url(/_next/static/media/icon-flower-27.a1ab233b.png);
+  background-image: url(/static/media/icon-flower-27.a1ab233b.png);
 }
 .icon-flower-28 {
   width: 495px;
   height: 474px;
-  background-image: url(/_next/static/media/icon-flower-28.719b3f28.png);
+  background-image: url(/static/media/icon-flower-28.719b3f28.png);
 }
 .icon-flower-29 {
   width: 228px;
   height: 427px;
-  background-image: url(/_next/static/media/icon-flower-29.906811ca.png);
+  background-image: url(/static/media/icon-flower-29.906811ca.png);
 }
 .icon-flower-30 {
   width: 79px;
   height: 105px;
-  background-image: url(/_next/static/media/icon-flower-30.5d306694.png);
+  background-image: url(/static/media/icon-flower-30.5d306694.png);
 }
 .icon-bubbles {
   width: 100%;
   height: 100%;
-  background-image: url(/_next/static/media/icon-bubbles.d125c66c.png);
+  background-image: url(/static/media/icon-bubbles.d125c66c.png);
 }
 .icon-bubbles-2 {
   width: 100%;
   height: 100%;
-  background-image: url(/_next/static/media/icon-bubbles-2.13612caa.png);
+  background-image: url(/static/media/icon-bubbles-2.13612caa.png);
 }
 .icon-line {
   width: 88px;
   height: 323px;
-  background-image: url(/_next/static/media/icon-line.78644e7c.png);
+  background-image: url(/static/media/icon-line.78644e7c.png);
 }
 .icon-quote {
   width: 61px;
   height: 45px;
-  background-image: url(/_next/static/media/icon-quote.de35f744.png);
+  background-image: url(/static/media/icon-quote.de35f744.png);
 }
 .bounce-y {
   animation: bounce-y 10s linear infinite;
@@ -43835,7 +43835,7 @@ figure.image {
   position: relative;
   background-color: #fafafa;
   padding: 240px 0 70px;
-  background-image: url(/_next/static/media/overlay2.e39b3c2b.jpg);
+  background-image: url(/static/media/overlay2.e39b3c2b.jpg);
 }
 @media (max-width: 1199.98px) {
   .banner-section-two {
@@ -43848,7 +43848,7 @@ figure.image {
   left: 0;
   width: 238px;
   height: 500px;
-  background-image: url(/_next/static/media/icon-flowers-1.967fc243.png);
+  background-image: url(/static/media/icon-flowers-1.967fc243.png);
   background-repeat: no-repeat;
 }
 @media (max-width: 1199.98px) {
@@ -43862,7 +43862,7 @@ figure.image {
   right: 0;
   width: 261px;
   height: 612px;
-  background-image: url(/_next/static/media/icon-flowers-2.224d233a.png);
+  background-image: url(/static/media/icon-flowers-2.224d233a.png);
   background-repeat: no-repeat;
 }
 @media (max-width: 1199.98px) {
@@ -44000,7 +44000,7 @@ figure.image {
   left: -55px;
   width: 117px;
   height: 180px;
-  background-image: url(/_next/static/media/icon-flowers-3.9942c7f3.png);
+  background-image: url(/static/media/icon-flowers-3.9942c7f3.png);
   background-repeat: no-repeat;
 }
 .banner-section-two .image-column .inner-column .image:after {
@@ -44010,7 +44010,7 @@ figure.image {
   right: -55px;
   width: 111px;
   height: 156px;
-  background-image: url(/_next/static/media/icon-flowers-4.39f36d50.png);
+  background-image: url(/static/media/icon-flowers-4.39f36d50.png);
   background-repeat: no-repeat;
 }
 .banner-section-two .image-column .inner-column .image img {
@@ -44694,7 +44694,7 @@ figure.image {
   bottom: -38px;
   width: 400px;
   height: 191px;
-  background-image: url(/_next/static/media/shadow.dc3a1564.png);
+  background-image: url(/static/media/shadow.dc3a1564.png);
   background-repeat: no-repeat;
   z-index: 1;
 }
@@ -44857,7 +44857,7 @@ figure.image {
   display: inline-block;
   width: 30px;
   height: 114px;
-  background-image: url(/_next/static/media/divider-2.af584229.png);
+  background-image: url(/static/media/divider-2.af584229.png);
   background-repeat: no-repeat;
   margin-right: -1px;
   transform: translate(-50%, -50%);
@@ -45042,7 +45042,7 @@ figure.image {
   height: 260px;
   margin-top: -132px;
   margin-left: -132px;
-  background-image: url(/_next/static/media/couple-frame-2.142dada6.png);
+  background-image: url(/static/media/couple-frame-2.142dada6.png);
   background-repeat: no-repeat;
   animation: zoom-two 3s linear infinite;
 }
@@ -46831,7 +46831,7 @@ figure.image {
   width: 100%;
   height: 80px;
   pointer-events: none;
-  background-image: url(/_next/static/media/service-frame.cbf9ed7b.png);
+  background-image: url(/static/media/service-frame.cbf9ed7b.png);
   background-repeat: no-repeat;
   background-position: 50%;
 }
@@ -46906,7 +46906,7 @@ figure.image {
   margin-bottom: 20px;
 }
 .services-block .inner-box .icon-divider-3 {
-  background-image: url(/_next/static/media/divider-3.812163b1.png);
+  background-image: url(/static/media/divider-3.812163b1.png);
   display: inline-block;
   width: 112px;
   height: 16px;
@@ -47453,7 +47453,7 @@ figure.image {
   top: 0;
   left: 0;
   content: "";
-  background-image: url(/_next/static/media/icon-flowers.a77fb126.png);
+  background-image: url(/static/media/icon-flowers.a77fb126.png);
   background-position: 100% 0;
   background-repeat: no-repeat;
 }
@@ -48089,7 +48089,7 @@ figure.image {
   position: absolute;
   bottom: 0;
   left: 0;
-  background-image: url(/_next/static/media/cta-flowers.462083f6.png);
+  background-image: url(/static/media/cta-flowers.462083f6.png);
   display: inline-block;
   width: 432px;
   height: 604px;
@@ -48267,7 +48267,7 @@ figure.image {
   right: -40px;
   width: 206px;
   height: 200px;
-  background-image: url(/_next/static/media/flowers-4.fc945753.png);
+  background-image: url(/static/media/flowers-4.fc945753.png);
   background-repeat: no-repeat;
   animation: zoom-two 5s linear infinite;
 }
@@ -48283,7 +48283,7 @@ figure.image {
   left: -40px;
   width: 206px;
   height: 200px;
-  background-image: url(/_next/static/media/flowers-4-2.558bc263.png);
+  background-image: url(/static/media/flowers-4-2.558bc263.png);
   background-repeat: no-repeat;
   animation: zoom-two 5s linear infinite;
   animation-delay: 3s;
@@ -48598,7 +48598,7 @@ figure.image {
   right: 0;
   width: 135px;
   height: 12px;
-  background-image: url(/_next/static/media/icon-arrow.7609e5ff.png);
+  background-image: url(/static/media/icon-arrow.7609e5ff.png);
 }
 @media (max-width: 1199.98px) {
   .testimonial-section-three .default-navs-two .owl-prev:before {
@@ -48644,7 +48644,7 @@ figure.image {
   left: 0;
   width: 135px;
   height: 12px;
-  background-image: url(/_next/static/media/icon-arrow.7609e5ff.png);
+  background-image: url(/static/media/icon-arrow.7609e5ff.png);
   transform: scaleX(-1);
 }
 @media (max-width: 1199.98px) {
@@ -48785,7 +48785,7 @@ figure.image {
   display: inline-block;
   width: 30px;
   height: 114px;
-  background-image: url(/_next/static/media/divider-2.af584229.png);
+  background-image: url(/static/media/divider-2.af584229.png);
   background-repeat: no-repeat;
   transform: translate(-50%, -50%);
 }
@@ -50220,7 +50220,7 @@ figure.image {
   left: -15px;
   width: 13px;
   height: 80px;
-  background-image: url(/_next/static/media/divider-4.7b43456f.png);
+  background-image: url(/static/media/divider-4.7b43456f.png);
 }
 @media (max-width: 767.98px) {
   .counter-block .inner:before {
@@ -50502,7 +50502,7 @@ figure.image {
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: cover;
-  background-image: url(/_next/static/media/overlay3.8c077c82.jpg);
+  background-image: url(/static/media/overlay3.8c077c82.jpg);
   content: "";
   opacity: 0.1;
 }
@@ -52182,7 +52182,7 @@ figure.image {
   position: relative;
   z-index: 9;
   padding: 80px 70px 55px;
-  background-image: url(/_next/static/media/overlay.ca92303a.jpg);
+  background-image: url(/static/media/overlay.ca92303a.jpg);
 }
 .contact-form-four:before {
   position: absolute;
