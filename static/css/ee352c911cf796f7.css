@@ -44036,7 +44036,7 @@ figure.image {
 }
 .banner-section-three {
   position: relative;
-  background-color: #1c1105;
+  background-color: #001221;
 }
 .banner-section-three .icon-bubbles-2 {
   position: absolute;
@@ -44141,7 +44141,7 @@ figure.image {
   right: 0;
   width: 60%;
   height: 100%;
-  overflow: hidden;
+  overflow: visible;
   z-index: 2;
 }
 @media (max-width: 991.98px) {
@@ -44153,6 +44153,7 @@ figure.image {
   height: 100%;
   width: 100%;
   object-fit: cover;
+  overflow: visible;
 }
 @media (max-width: 991.98px) {
   .banner-section-three .bg-image img {
@@ -46316,6 +46317,10 @@ figure.image {
 .gallery-block-five .inner-box .image img {
   border-radius: 0 0 300px 300px;
   transition: all 0.3s ease;
+  height: 400px;
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
 }
 .gallery-block-five.style-two .image,
 .gallery-block-five.style-two .image img {
@@ -47029,6 +47034,8 @@ figure.image {
 }
 .services-block-three .inner-box .image-box .image img {
   border-radius: 300px;
+  height: 550px;
+  object-fit: cover;
 }
 .services-block-three .inner-box .image-box .info-box {
   position: absolute;
@@ -49040,6 +49047,10 @@ figure.image {
   .image
   img {
   border-radius: 300px 300px 0 0;
+  height: 450px;
+  width: 100%;
+  object-fit: cover;
+  object-position: top;
 }
 .team-section-three
   .team-block-outer
@@ -49107,7 +49118,7 @@ figure.image {
   font-weight: 400;
   line-height: 1em;
   letter-spacing: 8px;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
 }
 @media (max-width: 991.98px) {
   .team-section-three
@@ -49125,7 +49136,7 @@ figure.image {
   .inner-column
   .team-info-box
   .designation {
-  margin-bottom: 10px;
+  margin-bottom: 30px;
   color: var(--theme-color5);
   font-family: var(--title-font);
   font-weight: 700;
@@ -49143,7 +49154,7 @@ figure.image {
     .designation {
     display: block;
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
 }
 .team-section-three
